@@ -12,7 +12,7 @@
 /*Important: Do NOT change the data types of the map or add one that is different!*/
 typedef struct
 {
-    __IO	uint32_t 		data0;
+    	__IO	uint32_t 		data0;
   	__IO	uint32_t 		data1;
   	__IO	uint32_t 		data2;
   	__IO	uint32_t 		data3;
